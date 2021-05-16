@@ -17,6 +17,6 @@ print("Olá", nome, "o total ganho nesse mês foi de: ")
 
 soma = ganho1 + ganho2 + ganho3 + ganho4
 
-media = soma / 2
+media = soma / 4
 
 print(media)
